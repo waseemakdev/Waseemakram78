@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@waseemakram78)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Waseemakram78](https://github.com/waseemakdev)
+- 👨‍💻 All of my projects are available at [https://github.com/waseemakdev](https://github.com/waseemakdev)
 
 - 💬 Ask me about **Flutter,dart,Python**
 
