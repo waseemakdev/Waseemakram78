@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **contact@waseemakram.co**
 
-- 📄 Know about my experiences [https://github.com/waseemakdev/my_resume](https://github.com/waseemakdev/my_resume)
+- 📄 Know about my experiences [https://waseemakram.co/](https://waseemakram.co/)
 
 - ⚡ Fun fact **I'd Love to Write and Debug Code.**
 
