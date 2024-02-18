@@ -11,20 +11,20 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@waseemakram78)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Waseemakram78](https://github.com/Waseemakram78)
+- 👨‍💻 All of my projects are available at [https://github.com/Waseemakram78](https://github.com/waseemakdev)
 
 - 💬 Ask me about **Flutter,dart,Python**
 
-- 📫 How to reach me **waseemakram.jpb@gmail.com**
+- 📫 How to reach me **contact@waseemakram.co**
 
-- 📄 Know about my experiences [https://github.com/Waseemakram78/my_resume](https://github.com/Waseemakram78/my_resume)
+- 📄 Know about my experiences [https://github.com/waseemakdev/my_resume](https://github.com/waseemakdev/my_resume)
 
 - ⚡ Fun fact **I'd Love to Write and Debug Code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/waseem_655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waseem_655" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/waseem-akram78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waseem-akram78" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/waseem-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waseem-akram78" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14580694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14580694" height="30" width="40" /></a>
 <a href="https://www.instagram.com/thewas.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thewas.dev" height="30" width="40" /></a>
 <a href="https://medium.com/waseemakram78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="waseemakram78" height="30" width="40" /></a>
