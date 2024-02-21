@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, I'm Waseem</h1>
 <h3 align="center">A Passionate Flutter app Developer and AI Model Trainer</h3>
 
-<p align="left"> <a href="https://twitter.com/waseem_655" target="blank"><img src="https://img.shields.io/twitter/follow/waseem_655?logo=twitter&style=for-the-badge" alt="waseem_655" /></a> </p>
+<p align="left"> <a href="https://twitter.com/waseemwakram" target="blank"><img src="https://img.shields.io/twitter/follow/waseem_655?logo=twitter&style=for-the-badge" alt="waseem_655" /></a> </p>
 
 - 🔭 I’m currently working on **Ask AI Aura chatgpt and AI Art**
 
