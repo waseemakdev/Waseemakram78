@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/waseem-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waseem-akram78" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14580694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14580694" height="30" width="40" /></a>
 <a href="https://www.instagram.com/thewas.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thewas.dev" height="30" width="40" /></a>
-<a href="https://medium.com/waseemakdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="waseemakram78" height="30" width="40" /></a>
+<a href="https://medium.com/@waseemakdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="waseemakram78" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@waseemakdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="waseemakdev" height="30" width="40" /></a>
 </p>
 
