@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/waseemakdev" target="blank"><img src="https://img.shields.io/twitter/follow/waseemakdev?logo=twitter&style=for-the-badge" alt="waseemakdev" /></a> </p>
 
-- 🔭 I’m currently working on **Ask AI Aura chatgpt and AI Art**
+- 🔭 I’m currently working on **Ready to Cock App**
 
-- 🌱 I’m currently learning **Machine Learning, Diffusion Model**
+- 🌱 I’m currently learning **Generative AI**
 
-- 🤝 Download the app Now It's in Testing Phase [Ask AI Aura](https://play.google.com/store/apps/details?id=com.massivetech.askauraai.ask_ai_aura)
+- 🤝 Download the app Now It's Live Now [Ask AI Aura](https://play.google.com/store/apps/details?id=com.massivetech.askauraai.ask_ai_aura)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@waseemakdev)
 
