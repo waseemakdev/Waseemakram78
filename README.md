@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/waseemakdev" target="blank"><img src="https://img.shields.io/twitter/follow/waseemakdev?logo=twitter&style=for-the-badge" alt="waseemakdev" /></a> </p>
 
-- 🔭 I’m currently working on **Ready to Cock App**
+- 🔭 I’m currently working on **Food Delivery App**
 
 - 🌱 I’m currently learning **Generative AI**
 
