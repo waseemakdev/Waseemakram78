@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/waseemakdev" target="blank"><img src="https://img.shields.io/twitter/follow/waseemakdev?logo=twitter&style=for-the-badge" alt="waseemakdev" /></a> </p>
 
-- 🔭 I’m currently working on **Food Delivery App**
+- 🔭 I’m currently working on **Building Cutting-Edge AI Solutions to Supercharge Lead Generation for Businesses! **
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Generative AI, NLP and other Online Models to Provide values to Businesses.**
 
 - 🤝 Download the app Now It's Live Now [Ask AI Aura](https://play.google.com/store/apps/details?id=com.massivetech.askauraai.ask_ai_aura)
 
