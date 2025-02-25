@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/waseemakdev](https://github.com/waseemakdev)
 
-- 💬 Ask me about **Flutter,dart,Python**
+- 💬 Ask me about **AI Chatbots for Businesses, AI, NLP, LLM ,Python and ML related stuff.**
 
-- 📫 How to reach me **contact@waseemakram.co**
+- 📫 How to reach me **waseem@nextgenaisol.com**
 
 - 📄 Know about my experiences [https://waseemakram.co/](https://waseemakram.co/)
 
